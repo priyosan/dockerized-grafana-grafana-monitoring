@@ -26,6 +26,7 @@ Now we need to create the Prometheus Datasource in order to connect Grafana to P
 * Click the `Grafana` Menu at the top left corner (looks like a fireball)
 * Click `Data Sources`
 * Click the green button `Add Data Source`.
+* Click Test and wait for this result success
 
 <img src="https://github.com/vegasbrianc/prometheus/blob/version-2/images/Add_Data_Source.png" width="400" heighth="400">
 
