@@ -1,5 +1,5 @@
 groups:
-- name: example
+- name: alert test
   rules:
 
   # Alert for any instance that is unreachable for >5 minutes.
