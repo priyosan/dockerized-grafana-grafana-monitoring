@@ -19,3 +19,4 @@ curl -sL https://grafana.com/api/plugins/petrslavotinek-carpetplot-panel/version
 wget https://github.com/VolkovLabs/volkovlabs-echarts-panel/releases/download/v4.5.0/volkovlabs-echarts-panel-4.5.0.zip
 popd
 
+#echo
