@@ -25,7 +25,7 @@ alerting:
 # Here it's Prometheus itself.
 scrape_configs:
 #######################################################################
-# Server ubuntu
+# Server ubuntu 20.04
 #######################################################################
   # The job name is added as a label `job=<job_name>` to any timeseries scraped from this config.
   - job_name: 'prometheus'
